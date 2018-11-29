@@ -23,3 +23,9 @@ Bapp/src/main/java/com/jhonny/navigationdrawer/ImageViewFragment.kt,0\7\07c83f9
 .app/src/main/res/menu/activity_main_drawer.xml,a\8\a874acbd348e069027d5c3df7eceb1a0bba28be9
 ]
 -app/src/main/res/layout/fragment_web_view.xml,d\8\d82ebb053b2ebba7cf90feb9cf7ba698ec3c205b
+R
+"app/src/main/res/values/colors.xml,9\6\969faa2a5d9f5e8390e958d2c07f2cfd54676e6b
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35

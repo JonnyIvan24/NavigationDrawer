@@ -74,15 +74,6 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
                 fragmento = DateViewFragment.newInstance("","")
                 cambio = true
             }
-            R.id.nav_manage -> {
-
-            }
-            R.id.nav_share -> {
-
-            }
-            R.id.nav_send -> {
-
-            }
         }
         if (cambio){
             //se toma el id del container que se va a remplazar y depues el fragment que se va a insertar
